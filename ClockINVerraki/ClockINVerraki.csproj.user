@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\USER\Downloads\ClockINVerraki\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Page\AddDepartment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Page\Clockin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Page\ClockINlist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Page\CreateUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Page\Stafflist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Page\ViewDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Page\AddDepartment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Page\Clockin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Page\ClockINlist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Page\CreateUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Page\Stafflist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Page\ViewDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\createuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\createuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\adddepartment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\adddepartment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\createuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\createuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\viewdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\viewdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\clockinlist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\clockinlist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\clockinlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\clockinlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\clockin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\clockin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\clockin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\clockin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\clockinverraki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:clockinverraki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\stafflist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\stafflist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\dbcontext\\clockindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:dbcontext\\clockindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\viewdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\viewdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\models\\clockuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:models\\clockuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\stafflist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\stafflist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\page\\adddepartment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:page\\adddepartment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|c:\\users\\user\\downloads\\clockinverraki\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47F6552-A206-4DAB-994C-976B93FD5C3E}|ClockINVerraki.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClockINlist.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ClockINlist.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\ClockINlist.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ClockINlist.xaml.cs",
+              "RelativeToolTip": "Page\\ClockINlist.xaml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAIwHQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:29:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClockINlist.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ClockINlist.xaml",
+              "RelativeDocumentMoniker": "Page\\ClockINlist.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ClockINlist.xaml",
+              "RelativeToolTip": "Page\\ClockINlist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T15:22:30.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClockINVerraki.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\ClockINVerraki.csproj",
+              "RelativeDocumentMoniker": "ClockINVerraki.csproj",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\ClockINVerraki.csproj",
+              "RelativeToolTip": "ClockINVerraki.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T03:40:00.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clockin.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Clockin.xaml",
+              "RelativeDocumentMoniker": "Page\\Clockin.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Clockin.xaml",
+              "RelativeToolTip": "Page\\Clockin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T16:56:53.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clockin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Clockin.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\Clockin.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Clockin.xaml.cs",
+              "RelativeToolTip": "Page\\Clockin.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:56:47.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClockUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Models\\ClockUser.cs",
+              "RelativeDocumentMoniker": "Models\\ClockUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Models\\ClockUser.cs",
+              "RelativeToolTip": "Models\\ClockUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:46:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Stafflist.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Stafflist.xaml",
+              "RelativeDocumentMoniker": "Page\\Stafflist.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Stafflist.xaml",
+              "RelativeToolTip": "Page\\Stafflist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T14:06:29.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stafflist.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Stafflist.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\Stafflist.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\Stafflist.xaml.cs",
+              "RelativeToolTip": "Page\\Stafflist.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:10:13.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:47:43.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ViewDetails.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\ViewDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ViewDetails.xaml.cs",
+              "RelativeToolTip": "Page\\ViewDetails.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAGQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:24:14.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ViewDetails.xaml",
+              "RelativeDocumentMoniker": "Page\\ViewDetails.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\ViewDetails.xaml",
+              "RelativeToolTip": "Page\\ViewDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T17:22:32.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUser.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\CreateUser.xaml",
+              "RelativeDocumentMoniker": "Page\\CreateUser.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\CreateUser.xaml",
+              "RelativeToolTip": "Page\\CreateUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T16:08:53.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\CreateUser.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\CreateUser.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\CreateUser.xaml.cs",
+              "RelativeToolTip": "Page\\CreateUser.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAM4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:08:55.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "ToolTip": "C:\\Users\\USER\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "RelativeToolTip": "..\\..\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T15:56:43.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddDepartment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\AddDepartment.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\AddDepartment.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\AddDepartment.xaml.cs",
+              "RelativeToolTip": "Page\\AddDepartment.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:44:40.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClockinDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\DbContext\\ClockinDBContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\ClockinDBContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\DbContext\\ClockinDBContext.cs",
+              "RelativeToolTip": "DbContext\\ClockinDBContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:17:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T12:52:28.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:52:26.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddDepartment.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\AddDepartment.xaml",
+              "RelativeDocumentMoniker": "Page\\AddDepartment.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\Page\\AddDepartment.xaml",
+              "RelativeToolTip": "Page\\AddDepartment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T12:51:09.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ClockINVerraki\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T12:47:13.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

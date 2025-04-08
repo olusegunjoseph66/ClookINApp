@@ -1,0 +1,29 @@
+﻿<Window x:Class="ClockINVerraki.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClockINVerraki"
+        mc:Ignorable="d"
+        Title="ClockWindow" Height="450" Width="800">
+    <Grid>
+        
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_Manage Clock IN">
+                    <MenuItem Header="_Open Add Department" Name="adddepartment" Click="adddepartment_Click"/>
+                    <MenuItem Header="_Open Add Staff" Name="addstaff" Click="addstaff_Click"/>
+                    <MenuItem Header="_Open Clock In" Name="addclockin" Click="addclockin_Click"/>
+                    <!--<MenuItem Header="_Open Details" Name="viewdetails" Click="viewdetails_Click"/>-->
+                    <MenuItem Header="_Open StaffLists" Name="stafflists" Click="stafflists_Click"/>
+                    <MenuItem Header="_Open ClockINLists" Name="clockINLists" Click="clockINLists_Click"/>
+                    <MenuItem Header="Exit" Name="Exit" Click="Exit_Click" />
+                </MenuItem>
+            </Menu>
+            <!-- Other UI elements -->  
+        </DockPanel>
+       
+        
+
+    </Grid>
+</Window>

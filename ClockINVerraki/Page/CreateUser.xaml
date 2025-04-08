@@ -1,0 +1,75 @@
+﻿<Window x:Class="ClockINVerraki.Page.CreateUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClockINVerraki.Page"
+        mc:Ignorable="d"
+        Title="CreateUser" Height="450" Width="600" >
+    <Grid>
+        <!--<DockPanel>-->
+           
+            <!-- Other UI elements -->
+        <!--</DockPanel>-->
+        <!--<Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>-->
+        <!-- Define rows and columns -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+
+        <!--<Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Exits">
+                <MenuItem Header="Exit" Name="Exit" Click="Exit_Click" />
+            </MenuItem>
+        </Menu>-->
+        <!-- First row: Label and TextBox -->
+        <TextBlock Text="FirstName:" Grid.Row="0" Grid.Column="0" Margin="3" VerticalAlignment="Center"/>
+        <TextBox Name="FNameTextBox" Grid.Row="0" Grid.Column="1" Margin="30,10,10,30" Height="40" Width="250" />
+        <!-- Second row: Label and TextBox -->
+        <TextBlock Text="LastName:" Grid.Row="1" Grid.Column="0" Margin="3" VerticalAlignment="Center"/>
+        <TextBox Name="LNameTextBox" Grid.Row="1" Grid.Column="1" Margin="30,10,10,30" Height="40" Width="250" />
+
+        <!-- Third row: Label and TextBox -->
+        <TextBlock Text="Select Department:" Grid.Row="2" Grid.Column="0" Margin="3" VerticalAlignment="Center"/>
+        <!--<TextBox Name="LtNameTextBox" Grid.Row="2" Grid.Column="1" Margin="3" />-->
+        <ComboBox x:Name="DepartmentcomboBox"  Grid.Row="2" Grid.Column="1" Width="120" Height="40" Margin="30,10,10,30"   DisplayMemberPath="Name"
+                  SelectedValuePath="Id"  SelectedValue="{Binding SelectedItemId}"   HorizontalAlignment="Left"/>
+
+        <!-- Third row: Label and TextBox -->
+        <TextBlock Text="TakePhoto:" Grid.Row="3" Grid.Column="0" Margin="3" VerticalAlignment="Center"/>
+        <!--<TextBox Name="LtNameTextBox" Grid.Row="2" Grid.Column="1" Margin="3" />-->
+        <!--<ComboBox x:Name="DepartmentcomboBox"  Grid.Row="2" Grid.Column="1" Width="120"  DisplayMemberPath="Name"
+SelectedItem="{Binding SelectedItem}"   HorizontalAlignment="Left"/>-->
+        <Image Name="WebcamFeed" Grid.Row="3" Grid.Column="1" Width="120"   Margin="30,10,10,30"/>
+
+        <!-- Third row: Button spanning two columns -->
+        <Button Name="ShutdownButton" Content="Close WebCam" Click="ShutdownButton_Click"  Width="100" Grid.Row="4" Grid.Column="0"  Margin="20,10,10,30" />
+
+        <Button Content="Submit" Name="CaptureAndSave" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Margin="30,10,10,30" HorizontalAlignment="Center" Click="CaptureAndSave_Click"/>
+
+        <TextBlock Text="Press Ctrl+X to close the webcam" FontSize="16" FontWeight="Bold" Grid.Row="5" Grid.Column="0" Margin="30,10,10,30" />
+
+
+        <!--<Image Name="WebcamFeed" Grid.Row="0" Margin="10"/>
+        <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox Name="FirstNameTextBox" Width="200" Height="30" Margin="10" />
+            <TextBox Name="LastNameTextBox" Width="200" Height="30" Margin="10" />
+            <ComboBox x:Name="DepartmentcomboBox"  Width="120"  DisplayMemberPath="Name"
+                  SelectedItem="{Binding SelectedItem}"   HorizontalAlignment="Left"/>
+            <Button Content="CaptureAndSave" Name="CaptureAndSave" Width="150" Height="30" Click="CaptureAndSave_Click"/>
+            
+        </StackPanel>-->
+    </Grid>
+</Window>
